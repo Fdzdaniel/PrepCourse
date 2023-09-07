@@ -1,2 +1,1 @@
-# PrepCourse
-Este es un repositorio de prueba para el prepcourse de henry
+este es una prueba de como crear una prueba y clonarlo en mi pc
